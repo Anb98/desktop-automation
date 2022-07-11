@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "raf": "^3.4.1",
+    "robotjs": "^0.6.0"
+  },
+  "engines": {
+    "node": "^14.16"
+  }
+}
